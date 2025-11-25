@@ -14,3 +14,12 @@ Titre du commit
 Description de notre commit avec des informations sur
 l'évolution du projet
 ```
+
+## Envoyer le git sur un depot distant
+
+```
+Titre du commit
+
+Description de notre commit avec des informations sur
+l'évolution du projet
+```
