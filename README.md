@@ -29,3 +29,5 @@ l'évolution du projet
 ```bash
 git checkout -b develop
 ```
+
+## Mes notions de SQL
